@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vazifa -1", "vazifa -1.csproj", "{B28BB31A-283C-400D-A785-50399B928A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28BB31A-283C-400D-A785-50399B928A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28BB31A-283C-400D-A785-50399B928A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28BB31A-283C-400D-A785-50399B928A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28BB31A-283C-400D-A785-50399B928A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7A18E5-90AC-4671-BB63-22FA3A9B198F}
+	EndGlobalSection
+EndGlobal
