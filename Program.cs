@@ -1,4 +1,7 @@
-﻿//// begin 1
+﻿///////        VAZIFA - 1      ///////
+
+
+//// begin 1
 //Console.Write("Kvadrat tomonini kiriting: ");
 //int a = int.Parse(Console.ReadLine());
 //int P;
@@ -68,6 +71,7 @@
 //S = PI * R * R; 
 //Console.WriteLine("Doira uzunligi: " + L  + "  Doira yuzasi: " + S);
 
+
 ////begin 8
 //float a = float.Parse(Console.ReadLine());
 //float b = float.Parse(Console.ReadLine());
@@ -103,5 +107,96 @@
 //    d = a - b;
 //    e = a * b;
 //    Console.WriteLine("Yigindisi: " + c * c  + "   Ayrimasi: " + d * d + "   Kopaytmasi: " + e * e);
+//}
+
+
+////begin 24
+//double A = double.Parse(Console.ReadLine());
+//double B = double.Parse(Console.ReadLine());
+//(A, B) = (B, A);
+//Console.WriteLine($"  {A}  {B}");
+
+
+////begin 23
+//double A = double.Parse(Console.ReadLine());
+//double B = double.Parse(Console.ReadLine());
+//double C = double.Parse(Console.ReadLine());
+//(A, B, C) = (C, A, B);
+//Console.WriteLine($"  {A}  {B}  {C}");
+
+
+////begin 24
+//double A = double.Parse(Console.ReadLine());
+//double B = double.Parse(Console.ReadLine());
+//double C = double.Parse(Console.ReadLine());
+//(A, B, C) = (B, C, A);
+//Console.WriteLine($"  {A}  {B}  {C}");
+
+
+////begin 25
+//int x = int.Parse(Console.ReadLine());
+//int y;
+//y = 3 * x * x * x * x * x * x - 6 * x * x - 7;
+//Console.WriteLine(y);
+
+
+////begin 27
+//int A = int.Parse(Console.ReadLine());
+//int A2;
+//int A4;
+//int A8;
+//A2 = A * A;
+//A4 = A2 * A2;
+//A8 = A4 * A2;
+//Console.WriteLine($" {A2}  {A4}  {A8}");
+
+
+////begin 28
+//int A = int.Parse(Console.ReadLine());
+//int A2;
+//int A3;
+//int A5;
+//int A10;
+//int A15;
+//A2 = A * A;
+//A3 = A2 * A;
+//A5 = A3 * A2;
+//A10 = A5 * A5;
+//A15 = A10 * A5;
+//Console.WriteLine($" {A2}  {A3}  {A5}  {A10}  {A15}");
+
+
+////begin 33
+//int x = int.Parse(Console.ReadLine());
+//int A = int.Parse(Console.ReadLine());
+//int y = int.Parse(Console.ReadLine());
+//int kg = A / x;
+//y = y * kg;
+//Console.WriteLine(kg);
+//Console.WriteLine(y);
+
+////begin 34
+//int x = int.Parse(Console.ReadLine());
+//int A = int.Parse(Console.ReadLine());
+//int y = int.Parse(Console.ReadLine());
+//int B = int.Parse(Console.ReadLine());
+//int kg = A / x;
+//int kh = B / y;
+//int sum1;
+//sum1 = kg + kh;
+//int sum2;
+//sum2 = kg - kh;
+//Console.WriteLine(sum1);
+//Console.WriteLine(sum2);
+
+////begin 38
+//var num = Console.ReadLine().Split().Select(int.Parse).ToArray();
+//int A = num[0];
+//int B = num[1];
+//int x;
+//if(A != 0)
+//{
+//    x = (-B) / A;
+//    Console.WriteLine(x);
 //}
 
